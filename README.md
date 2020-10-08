@@ -8,8 +8,9 @@
 Tactile Object Recognition**,IEEE/RSJ International Conference on Robots and Systems (IROS), 2020,[paper](https://arxiv.org/abs/2008.08046),[code](https://github.com/clear-nus/TactileSGNet)
 
     *Fuqiang Gu, Weicong Sng, Tasbolat Taunyazov, and Harold Soh*
-3. **
+
 ## Blogs
+https://blog.csdn.net/h__ang/category_9289277.html
 
 ## Toolbox
 1. **Bindset**,simulation library based on pytorch,[github](https://github.com/BindsNET/bindsnet),[docs](https://bindsnet-docs.readthedocs.io/)
