@@ -16,4 +16,4 @@ https://blog.csdn.net/h__ang/category_9289277.html
 1. **Bindset**,simulation library based on pytorch,[github](https://github.com/BindsNET/bindsnet),[docs](https://bindsnet-docs.readthedocs.io/)
 2. **snn_toolbox**,A framework to transform ANN into SNN,[github](https://github.com/NeuromorphicProcessorProject/snn_toolbox),[docs](https://snntoolbox.readthedocs.io/en/latest/)
 ## Resource
-
+[IEE/CSE 598: Lecture 7G (2020-04-15) - Intro. to Spiking Neural Networks and Neuromorphic Computing](https://www.youtube.com/watch?v=ICw2_49dSNw&list=PLXBbGVSkQJqETDgfvBV-DQD3G-v9052gX&index=25)
