@@ -9,6 +9,9 @@ Tactile Object Recognition**,IEEE/RSJ International Conference on Robots and Sys
 
     *Fuqiang Gu, Weicong Sng, Tasbolat Taunyazov, and Harold Soh*
 
+3. **Direct Training for Spiking Neural Networks: Faster, Larger, Better.**,AAAI,2019,[paper](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwir0fjng7PsAhWac3AKHQI5Aw0QFjACegQIAhAC&url=https%3A%2F%2Fwww.aaai.org%2Fojs%2Findex.php%2FAAAI%2Farticle%2Fview%2F3929%2F3807&usg=AOvVaw0tcV-LFWAr2f64OaEXp3MZ),[code](https://github.com/yjwu17/BP-for-SpikingNN)
+
+    *Wu, Yujie, Lei Deng, Guoqi Li, Jun Zhu, and Luping Shi.*
 ## Blogs
 https://blog.csdn.net/h__ang/category_9289277.html
 
