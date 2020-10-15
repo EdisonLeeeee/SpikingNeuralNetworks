@@ -14,7 +14,7 @@ Tactile Object Recognition**,IEEE/RSJ International Conference on Robots and Sys
     *Wu, Yujie, Lei Deng, Guoqi Li, Jun Zhu, and Luping Shi.*
 ## Blogs
 https://blog.csdn.net/h__ang/category_9289277.html
-
+[TactileSGNet代码学习](https://blog.csdn.net/weixin_42052231/article/details/109095199)
 ## Toolbox
 1. **Bindset**,simulation library based on pytorch,[github](https://github.com/BindsNET/bindsnet),[docs](https://bindsnet-docs.readthedocs.io/)
 2. **snn_toolbox**,A framework to transform ANN into SNN,[github](https://github.com/NeuromorphicProcessorProject/snn_toolbox),[docs](https://snntoolbox.readthedocs.io/en/latest/)
